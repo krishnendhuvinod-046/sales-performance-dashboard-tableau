@@ -27,7 +27,7 @@ Stakeholders lacked a centralized view to distinguish between "Realized Revenue"
 ---
 
 ## 🖼️ Dashboard Preview
-[View Interactive Dashboard on Tableau Public]("C:\internship\project2\sales-perfomance-dashboard.twbx")
+[View Interactive Dashboard on Tableau Public]()
 
 ---
 
