@@ -1,25 +1,24 @@
-📊 Sales Performance Dashboard (Tableau)
-
-Interactive Tableau dashboard analyzing sales revenue trends and order status
-  
-  ##🔹 Project Overview
-This project presents an interactive sales performance dashboard built using Tableau.  
-It provides insights into total revenue, revenue by order status, and monthly revenue trends.
- ##🔹 Key Metrics
-- Total Revenue: ₹15.4M  
-- Revenue breakdown by Order Status (Delivered vs Cancelled)  
-- Monthly Revenue Growth Trend  
- ##🔹 Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
-  ##🔹 Tools Used
-- Tableau Public
-- Data Visualization
- Dashboard Design Principles
-# Insights
-- Majority of revenue comes from delivered orders.
-- Revenue shows an upward growth trend over time.
-- Cancelled orders contribute minimal revenue impact.
-
-## 👩‍💻 Author
-Krishnendhu P A
-(Aspiring Data Analyst)
+​📊 Business Revenue Optimization Dashboard
+​An interactive Tableau solution for monitoring sales health and order fulfillment efficiency.
+​🎯 Project Overview
+​This project addresses the need for real-time visibility into sales performance. By transforming raw transactional data into an interactive dashboard, I've enabled stakeholders to monitor ₹15.4M in total revenue and track key performance indicators (KPIs) across different order lifecycles.
+​🧪 Business Problem
+​Stakeholders lacked a centralized view to distinguish between "Realized Revenue" (Delivered) and "Potential Loss" (Cancelled). This dashboard was designed to identify growth trends and evaluate the financial impact of order cancellations.
+​🛠️ Tech Stack & Skills
+​Data Visualization: Tableau Public
+​Data Processing: Excel (Data cleaning, handling null values, and formatting)
+​Analysis: Trend Analysis, Categorical Breakdown, KPI Tracking
+​Design: User-Centric Dashboard Design (UI/UX)
+​📈 Key Insights & Impact
+​Revenue Growth: Identified a consistent upward trajectory in monthly revenue, suggesting successful market expansion or seasonal demand spikes.
+​Fulfillment Efficiency: Confirmed that the vast majority of revenue is driven by successfully delivered orders, indicating a healthy supply chain.
+​Loss Mitigation: Determined that cancelled orders have a minimal impact on total revenue; however, I recommended further deep-dives into "Cancelled" reasons to optimize the customer experience.
+​🖼️ Dashboard Preview
+​View Interactive Dashboard on Tableau Public
+​📂 Project Structure
+​Data/: Contains the raw and cleaned datasets (if applicable).
+​Dashboard/: Link to the Tableau workbook or local file.
+​README.md: Documentation of the analysis process.
+​👤 Author
+​Krishnendhu P A
+Aspiring Data Analyst
