@@ -31,7 +31,7 @@ The analysis covers data cleaning, exploratory data analysis (EDA), trend analys
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Environment:** Google Colab  
-- **Visualization:** Power BI / Tableau (optional dashboard)  
+- **Visualization:**  Tableau 
 - **Version Control:** Git & GitHub  
 
 ---
